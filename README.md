@@ -6,10 +6,11 @@ I spend my days trying to level up myself in everything related to smart contrac
 
 ## EIP Playgrounds
 1. [EIP712-Playground](https://github.com/shamadrian/EIP712-Playground)
-2. [ERC2612-Playground(ERC20Permit)](https://github.com/shamadrian/ERC20-Permit-Playground)
+2. [ERC2612-Playground](https://github.com/shamadrian/EIP2612-Playground)
 
 ## CTF
 1. [Damn-Vulnerable-Defi](https://github.com/shamadrian/Damn-Vulnerable-Defi-Solutions)
+    * All 18 V4 exercises completed
 
 ## Audit Tools
 1. [Echidna-Playground](https://github.com/shamadrian/Echidna-Playground)
